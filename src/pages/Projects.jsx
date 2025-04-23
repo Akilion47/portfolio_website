@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../components/Projects/ProjectCard";
 import Particle from "../components/Particle";
-import instagramCloneImg from "D:/.vscode/.vscode/reactportfolio/portfolio-main/src/assets/projects/clone.webp";
-import exploreXpertsImg from "D:/.vscode/.vscode/reactportfolio/portfolio-main/src/assets/projects/kickstart.png";
-import onlineExamSystemImg from "D:/.vscode/.vscode/reactportfolio/portfolio-main/src/assets/projects/project.jpeg";
-import passwordGeneratorImg from "D:/.vscode/.vscode/reactportfolio/portfolio-main/src/assets/projects/password.webp";
-import calculatorImg from "D:/.vscode/.vscode/reactportfolio/portfolio-main/src/assets/projects/calculator.png";
-import objectDetectionImg from "D:/.vscode/.vscode/reactportfolio/portfolio-main/src/assets/projects/detection.webp";
+import instagramCloneImg from "../assets/projects/clone.webp";
+import exploreXpertsImg from "../assets/projects/kickstart.png";
+import onlineExamSystemImg from "../assets/projects/project.jpeg";
+import passwordGeneratorImg from "../assets/projects/password.webp";
+import calculatorImg from "../assets/projects/calculator.png";
+import objectDetectionImg from "../assets/projects/detection.webp";
 
 const Projects = () => {
   return (
